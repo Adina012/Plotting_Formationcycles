@@ -92,3 +92,5 @@ plt.title('Voltage vs Normalized Capacity for Multiple Files')
 plt.legend()
 plt.grid(True)
 plt.show()  # Show the plot and block execution until all plots are closed
+
+%hej
